@@ -1,0 +1,26 @@
+/* add your CSS here */
+
+#container{
+  width: 300px;
+  border: solid #888888 1px;
+  padding: 15px 10px;
+  box-shadow: 1px 1px #888888;
+}
+
+#card{
+  border: solid #888888 1px;
+  padding: 15px 10px;
+}
+
+#interesting-fact{
+  font-style: italic;
+}
+
+#facts > li > span{
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
